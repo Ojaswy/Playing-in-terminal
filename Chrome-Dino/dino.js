@@ -16,11 +16,6 @@
  * position. The logic is the dinosaur's eye is in a constant
  * defined position in every state (running, duck). Using this
  * we can reliably detect the current state the dinosaur is in. 
- *
- * Author: Azaan Hassan
- * Email : azaan@outlook.com
- *
- * June - 2016 
  */
 
 var game = (function(document) {
